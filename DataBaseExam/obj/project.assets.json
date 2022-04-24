@@ -1865,11 +1865,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\utaki\\Documents\\Code\\DataBaseExam\\DataBaseExam\\DataBaseExam.csproj",
+      "projectUniqueName": "C:\\Users\\utaki\\OneDrive\\Documents\\GitHub\\DataBaseExam\\DataBaseExam\\DataBaseExam.csproj",
       "projectName": "DataBaseExam",
-      "projectPath": "C:\\Users\\utaki\\Documents\\Code\\DataBaseExam\\DataBaseExam\\DataBaseExam.csproj",
+      "projectPath": "C:\\Users\\utaki\\OneDrive\\Documents\\GitHub\\DataBaseExam\\DataBaseExam\\DataBaseExam.csproj",
       "packagesPath": "C:\\Users\\utaki\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\utaki\\Documents\\Code\\DataBaseExam\\DataBaseExam\\obj\\",
+      "outputPath": "C:\\Users\\utaki\\OneDrive\\Documents\\GitHub\\DataBaseExam\\DataBaseExam\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\utaki\\AppData\\Roaming\\NuGet\\NuGet.Config",
